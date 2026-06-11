@@ -1,0 +1,7 @@
+{
+  "name": "ccip-lock-unlock-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx hardhat test"
+  }
+}
